@@ -41,6 +41,11 @@ capazes de buscar tais associações:
   ser considerado possa ser aumentado, buscando correções que indiquem um maior grau de sucesso na 
   aquisição de um mesmo produto.
 
+### Arquivo do projeto
+
+Seque aqui o link para o projeto no Orange:
+[foodmart_association.ows](./orange/foodmart_associaion.ows)
+
 ### Conclusões - foodmart2000
 
 Do ponto de vista da abordagem arquitetural do Orange, vemos algo como o estilo arquitetural DataFlow com a
@@ -66,3 +71,4 @@ do sistema.
 Através do output do componente "Association" é possível verificar combinações prováveis dado os produtos
 atualmente selecionados e com a informação da saída do "Frequent Itemset" é possível verificar dentro dessas
 combinações, quais os elementos mais "relevantes".
+
