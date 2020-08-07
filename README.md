@@ -1,2 +1,8 @@
-# inf331
-repository dedicated to the labs and items for INF331 (Componentização e Reuso de Software: Conceitos e Práticas)
+# INF 331
+
+Marcos Vinícius Piaia
+
+## Introdução
+
+Este repositório contém os resultados dos laboratórios desenvolvidos para a matéria 
+INF 331 (Componentização e Reuso de Software: Conceitos e Práticas)
