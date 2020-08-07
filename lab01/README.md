@@ -44,7 +44,7 @@ capazes de buscar tais associações:
 ### Arquivo do projeto
 
 Seque aqui o link para o projeto no Orange:
-[foodmart_association.ows](./orange/foodmart_associaion.ows)
+[foodmart_association.ows](./orange/foodmart_association.ows)
 
 ### Conclusões - foodmart2000
 
