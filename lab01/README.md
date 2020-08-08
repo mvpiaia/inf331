@@ -100,3 +100,10 @@ também foi aplicado nesse estudo.
 Seque aqui o arquivo do projeto google:
 [Google Project](./orange/google-playstore-preparation.ows)
 
+## Projeto de composição de componentes para a Recomendação
+
+Segue abaixo uma proposta inicial dos componentes que poderiam participar de um processo de 
+geração de sugestões para o usuário final baseado em um produto selecionado para o carrinho
+de compras.
+<img src="./images/component_recomendation.png" alt="Componentes de Recomendação de compra" style="zoom:100%;" />
+
