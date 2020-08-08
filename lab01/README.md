@@ -107,3 +107,15 @@ geração de sugestões para o usuário final baseado em um produto selecionado 
 de compras.
 <img src="./images/component_recomendation.png" alt="Componentes de Recomendação de compra" style="zoom:100%;" />
 
+
+
+## Projeto de composição de componentes para Pedido
+
+### 1. Diagrama de componentes
+
+![Diagrama de componentes do pedido](./images/Components_pedido.png)
+
+### 2. Diagrama de interfaces
+
+![Diagrama de Interfaces de Pedido](./images/Components_pedido_interface.png)
+
