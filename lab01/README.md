@@ -41,7 +41,7 @@ capazes de buscar tais associações:
   ser considerado possa ser aumentado, buscando correções que indiquem um maior grau de sucesso na 
   aquisição de um mesmo produto.
 
-### Arquivo do projeto
+### Arquivo do projeto Foodmart
 
 Seque aqui o link para o projeto no Orange:
 [foodmart_association.ows](./orange/foodmart_association.ows)
@@ -71,4 +71,32 @@ do sistema.
 Através do output do componente "Association" é possível verificar combinações prováveis dado os produtos
 atualmente selecionados e com a informação da saída do "Frequent Itemset" é possível verificar dentro dessas
 combinações, quais os elementos mais "relevantes".
+
+## Tarefa Google Play Store
+
+Segue abaixo algumas propostas de gráficos montados através do processamento dos dados do arquivo
+[Google-Playstore-32K.csv](./orange/Google-Playstore-32K.csv)
+
+Vale ressaltar que o mesmo processo de pré-processamento realizado na versão inicial do experimento
+também foi aplicado nesse estudo.
+
+### Imagens comentadas do projeto
+
+* aqui apresenta-se uma imagem com os componentes do projeto
+
+  <img src="./images/google_project_view.png" alt="Google Project View" style="zoom:40%;" />
+
+* Aqui busca-se mostrar uma relação entre a quantidade de aplicativos por categoria em cada faixa etária,
+  buscando demonstrar a concentração em cada uma delas.
+  <img src="./images/category_category-rating.png" alt="Category por rating" style="zoom:30%;" />
+
+* Finalmente, aqui busca-se mostrar uma relação entre quantidade de reviews e o "rating de um aplicativo"
+  dentro de sua categoria de jogos. Vemos, por exemplo, que os aplicativos de "Estrategy" possuem a 
+  maior quantidade de feedbacks de usuário
+  <img src="./images/google_reviews_per_rating.png" alt="Reviews per Rating" style="zoom:40%;" />
+
+### Arquivo do projeto Google
+
+Seque aqui o arquivo do projeto google:
+[Google Project](./orange/google-playstore-preparation.ows)
 
