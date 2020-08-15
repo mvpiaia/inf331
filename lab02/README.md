@@ -45,3 +45,45 @@ Este lab é formado por um conjunto de atividades que serã detalhadas abaixo
 
 ## Tarefa Web Components 2
 
+~~~html
+<dcc-trigger label="Start showing News" action="next/rss">
+</dcc-trigger>
+
+<dcc-rss publish="rss/science" source="https://www.wired.com/category/science/feed", interval=20000>
+<subscribe-dcc topic="next/rss" role="start"></subscribe-dcc>
+</dcc-rss>
+
+<dcc-rss publish="rss/design" source="https://www.wired.com/category/design/feed", interval=20000>
+<subscribe-dcc topic="next/rss" role="start"></subscribe-dcc>
+</dcc-rss>
+
+<dcc-aggregator publish="aggregate/science" quantity="3">
+  <subscribe-dcc topic="rss/science"></subscribe-dcc>
+</dcc-aggregator>
+
+<dcc-lively-dialog rate="6s" duration="2s">
+<dcc-lively-talk id="doctor"
+                 duration="0s"
+                 
+                 character="doctor"
+                 speech="News ">
+  <subscribe-dcc topic="aggregate/science"></subscribe-dcc>
+</dcc-lively-talk>
+
+<dcc-lively-talk id="nurse"
+                 duration="0s"
+                 character="nurse"
+                  direction="right"
+                 speech="News ">
+  <subscribe-dcc topic="#/science"></subscribe-dcc>
+</dcc-lively-talk>
+
+<dcc-lively-talk id="patient"
+                 duration="0s"
+                 character="patient"
+                 speech="News ">
+  <subscribe-dcc topic="#/design"></subscribe-dcc>
+</dcc-lively-talk>
+</dcc-lively-dialog>
+~~~
+
