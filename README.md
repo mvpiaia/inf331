@@ -21,3 +21,8 @@ subitem destina-se a representar um breve resumo do conteúdo em cada exercício
       	1. Diagrama de componentes
       	2. Diagrama de interfaces
 
+### 2. [lab02](./lab02)
+
+1. Tarefa sobre catálogo de componentes
+2. Tarefa Web Components 1
+3. Tarefa Web Componente 2
