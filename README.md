@@ -26,3 +26,11 @@ subitem destina-se a representar um breve resumo do conteúdo em cada exercício
 1. Tarefa sobre catálogo de componentes
 2. Tarefa Web Components 1
 3. Tarefa Web Componente 2
+
+### 3. [lab03](./lab03)
+
+1. Diagrama de atividades e Componentes usando Workflow para um fluxo de pedido
+2. Diagrama de atividades e Comonentes usando BroadCast de Mensagens para um leilão
+3. Aplicativos utilizando o MIT App Inventor
+4. Trabalho em Grupo com detalhamento da abordagem dos diagramas 1 e 2, mas agora com
+   a arquitetura MVC
