@@ -34,3 +34,10 @@ subitem destina-se a representar um breve resumo do conteúdo em cada exercício
 3. Aplicativos utilizando o MIT App Inventor
 4. Trabalho em Grupo com detalhamento da abordagem dos diagramas 1 e 2, mas agora com
    a arquitetura MVC
+
+### 4. [lab04](./lab04)
+
+1. Diagrama de grupo de componentes
+2. Componentes dos grupos Controller e View
+3. Componentes dos grupos Model e Controller
+4. Exemplo de chamadas REST
