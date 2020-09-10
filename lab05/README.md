@@ -8,6 +8,8 @@ Este lab é formado por um conjunto de atividades que serão detalhadas abaixo
 
 ## Tarefa 2
 
+Link para o [codePen](https://codepen.io/mvpiaia/pen/jOqzGqr) abaixo
+
 #### HTML
 
 ```html
