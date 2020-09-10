@@ -41,3 +41,9 @@ subitem destina-se a representar um breve resumo do conteúdo em cada exercício
 2. Componentes dos grupos Controller e View
 3. Componentes dos grupos Model e Controller
 4. Exemplo de chamadas REST
+
+### 5. [lab05](./lab05)
+
+1. Diagrama detalhado baseado em 3 componentes do lab04
+2. Exemplo de uso de componente utilizando como ferramenta o CodePen e o código no seguinte [link](https://codepen.io/santanche/pen/KKzmbwR)
+
